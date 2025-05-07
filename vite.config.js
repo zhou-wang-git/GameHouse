@@ -3,7 +3,7 @@ import vue from '@vitejs/plugin-vue';
 
 export default defineConfig({
   plugins: [vue()],
-  base: './', // 👈 用相对路径即可适配本地和线上
+  base: './', // ✅ 或 '/' 也可以
   build: {
     outDir: 'dist',
     sourcemap: true
