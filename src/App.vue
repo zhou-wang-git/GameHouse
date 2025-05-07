@@ -21,7 +21,7 @@ export default {
           name: 'Flappy Bird',
           url: 'https://playcanv.as/p/JtL7ZBZc/',
           cover: 'https://img.cdn.jsdelivr.net/gh/leungwensen/svg-icon@master/dist/svg/logos/flappy-bird.svg',
-          desc: '测试控制小鸟穿越管道障碍'
+          desc: '小鸟穿越管道障碍'
         },
         {
           name: '2048',
