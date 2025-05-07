@@ -3,5 +3,5 @@ import vue from '@vitejs/plugin-vue'
 
 export default defineConfig({
   plugins: [vue()],
-  base: '/', // 或你自己的路径
+  base: '/dist/', // 或你自己的路径
 })
