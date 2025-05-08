@@ -1,7 +1,10 @@
 export default [
   {
-    name: "HexGL",
-    url: "../games/hexgl/index.html" // 确保这个路径是正确的
+    name: 'Pixel Shooter',
+    url: 'https://ctjs.rocks/demo/',
+    cover: 'https://ctjs.rocks/img/logo.svg',
+    desc: 'ct.js 制作的射击小游戏'
+
   },
   {
     name: 'Pixel Shooter',
